@@ -15,7 +15,7 @@ This model has 7 layers:
 
 	**7-1** All people seem to need data processing.
 	**1-7** Please Do Not Throw Sausage Pizza Away.
-
+___
 **Layer 1 - Physical layer:**
 	Wires, Fiber, Radio waves, hub, part of NIC, connectors.
 	**Cable types** 
@@ -25,7 +25,7 @@ This model has 7 layers:
 		Bus, Star, Ring, Mesh partial/full.
 	**Threats:**
 		Data emanation, theft, eavesdropping, sniffing, interference.
-
+___
 **Layer 2 - Data Link Layer:**
 	Transports data between 2 nodes connected to same network.
 		LLC - Logical Link Control - error detection
@@ -37,4 +37,40 @@ This model has 7 layers:
 	**CSMA/CD** - Ethernet - minimized with switches vs. hubs.
 	**CSMA/CA** - Wireless
 	**Token passing** - Similar to the talking stick, not really used anymore.
-
+___
+**Layer 3 - Network Layer:**
+	Expands to many different nodes (IP) - The Internet is IP based.
+	**Protocols:**
+		IP, ICMP, IPSEC, IGMP, IGRP, IKE, ISAKMP, IPX
+	**Threats:** Ping of Death, Ping Floods, Smurf - spoof source and directed broadcast, IP modifications, DHCP attacks,...
+___
+**Layer 4 -  Transport layer:**
+	**SSL/TLS** Layer 4 to 7.
+	**UDP (User Datagram Protocol):**
+		Connectionless protocol, unreliable, VOIP, Live video, gaming, "real-time".
+	**Attack: Fraggle attack**  
+		works the same way as smurf but may be more successful since it uses UDP and not ICMP.
+	**TCP (Transmission Control Protocol):**
+		Reliable, Connection orientated, Guaranteed delivery, 3 way handshake, slower/more overhead, data reassembled.
+	**Attacks: SYN floods**
+		half open TCP sessions, client sends 1,000s of SYN request, but never the ACK.
+___
+ **Layer 5 - Session Layer:**
+	 Establishes connection between 2 applications: 
+	 Setup > Maintenance > Tear Down.
+	 **Threats to level** 
+		 Virus, worms, Trojans, buffer overflow, applications or OS vulnerabilities.
+___
+**Layer 6 - Presentation Layer:**
+	- Only layer with no protocols.
+	- Formatting, compressing, encryption (file level).
+	**Threats to level** 
+		Virus, worms, Trojans, buffer overflow, applications or OS vulnerabilities.
+___
+**Layer 7 - Application Layer:**
+	Presents data to user (applications/websites).
+	HTTP, HTTPS, FTP, SMTP, IMAP, POP, and many more.
+	**Threats to level** 
+		Virus, worms, Trojans, buffer overflow, applications or OS vulnerabilities.
+___
+![[OSI model - Open Systems Interconnection Reference model.canvas|OSI model - Open Systems Interconnection Reference model]]
