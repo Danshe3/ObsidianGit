@@ -10,6 +10,8 @@ one of the ways I studied to learn more about cybersecurity was through a course
 ## Section 3
 ![[Access Controls Concepts]]
 
+## Section 4
+![[Network Security]]
 
 ## Certification Study
 General review for studying what I've learned.
