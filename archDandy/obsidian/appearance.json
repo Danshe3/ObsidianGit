@@ -1,0 +1,25 @@
+{
+  "enabledCssSnippets": [
+    "realistic-highlight",
+    "omega-hr",
+    "obsidianite-fonts",
+    "notation-colour-blocks",
+    "inline-block-embeds",
+    "clutter-free-headings",
+    "clutter-free-formatting",
+    "checkbox",
+    "center-images",
+    "Iterative Rainbow Folder Titles",
+    "Iterative Rainbow Folder Icons",
+    "dashboard",
+    "dashboard-ReadLineLength"
+  ],
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "JetBrains Mono",
+  "accentColor": "#c70000",
+  "cssTheme": "Obsidianite",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
+}
