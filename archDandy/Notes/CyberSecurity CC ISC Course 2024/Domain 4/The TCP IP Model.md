@@ -4,7 +4,7 @@
 - A conceptual model that provides end-to-end data communication.
 - From lowest to highest:
 	- **The link layer,** containing communication methods for data that remains within a single network segment.
-	- **The internet layer,** connecting independent networks, thus providing internetworking.
+	- **The internet layer,** connecting independent networks, thus providing inter networking.
 
 | **TCP/IP Model<br>(DOD) Model** | Application Layer        |                          |                           | Transport Layer      | Link and Physical Layer |                        |
 | ------------------------------- | ------------------------ | ------------------------ | ------------------------ | -------------------- | ----------------------- | ---------------------- |
@@ -15,7 +15,7 @@ has the networking scope of the local network connection to which a host is atta
 - Used to move packets between the Internet layer interfaces of two different hosts on the same network.
 - The link and physical layer = OSI layer 1 - 2
 
-##### **Internet/Internetwork layer (Continue):**
+##### **Internet/Internet-work layer (Continue):**
 The Internet Protocol performs two basic functions:
 - **Host addressing and identification:** This is done with a hierarchical IP addresses.
 - **Packet Routing:** Sending the packets of data (datagrams) from the source to the destination by forwarding them to the next network router closer to the final destination.
