@@ -56,3 +56,8 @@ Use light to carry data (vs. electricity for copper cables):
 **Single-Mode fiber** A single strand of fiber carries a single mode of light (down the center), used for long distance cables (Often used in IP-Backbones).
 **Multi-Mode fiber** Uses multiple modes (light colors)
  to carry multiple data streams simultaneously, this is done with WDM (Wavelength Division Multiplexing).
+
+
+C:\Users\kxmz9\Documents\GitHub\ObsidianGit\archDandy
+
+https://github.com/Danshe3/ObsidianGit.git

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "Notes/CyberSecurity CC ISC Course 2024/Domain 4/Cables.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Cables"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 1/The Ethics of your organizations and (ISC)sqr2.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 1/Subject and Object..md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 1/Security Principles.md",
@@ -210,7 +211,6 @@
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 2/Simulated Tests.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 2/NIST (National Institute of Standards and Technologies.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 2/Incident Management.md",
-    "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 2/DRP - Disaster Recovery Plan.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 2",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Certification",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024",
