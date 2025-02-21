@@ -48,3 +48,22 @@ The **IP addresses** can be seen as the number of an apartment building.
 | 138  | TCP/UDP | NetBIOS Datagram Service                                             |
 | 3383 | TCP/UDP | Microsoft Terminal Server (RDP)                                      |
 
+## IPv4 (Internet Protocol version 4)
+addresses:
+	IPv4 addresses are made up of 4 octets (dotted-decimal notation) and broken further down in a 32bit integer binary.
+		_It is easier to remember “google.com” than it is to remember 66.102.12.231 or 2607:f8b0:4007:80b::200e_
+## IPv6 (Internet Protocol version 6)
+- IPv6 is 128bit in hexadecimal numbers (uses 0-9 and a-f).
+- 8 groups of 4 hexadecimals, making addresses look like this:
+	_fd01:fe91:aa32:342d:74bb:234c:ce19:123b_
+- IPSec is built in, not bolted on like with IPv4
+
+
+**Public IP Addresses** (Internet routable addresses):
+- Used to communicate over the internet between hosts.
+**Private Addresses** (RFC 1918- Not routable on the internet): Other notable IP spaces:
+
+| 10.0.0.0    | 10.255.255.255  | 16777216 | 127.0.0.0/8 Loopback IPs  |
+| ----------- | --------------- | -------- | ------------------------- |
+| 172.16.0.0  | 172.31.255.255  | 1048576  | 169.254.0.0/16 Link-Local |
+| 192.168.0.0 | 192.168.255.255 | 65536    | 255.255.255.255 Broadcast |

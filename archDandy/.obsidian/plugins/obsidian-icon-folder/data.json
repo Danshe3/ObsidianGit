@@ -1,0 +1,58 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCalendarDays",
+      "LiDatabase",
+      "LiMoreHorizontal",
+      "LiGithub",
+      "LiBookA"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Index": {
+    "iconName": "LiHome",
+    "iconColor": "#fa0000"
+  },
+  "Notes": {
+    "iconName": "LiBookA",
+    "iconColor": "#4c00ff"
+  },
+  "Notes/CyberSecurity CC ISC Course 2024": {
+    "iconName": "LiBook",
+    "iconColor": "#009411"
+  },
+  "GitHub": {
+    "iconName": "LiGithub",
+    "iconColor": "#ffffff"
+  },
+  "Meta": "LiDatabase",
+  "Daily": {
+    "iconName": "LiCalendarDays",
+    "iconColor": "#ffdd00"
+  }
+}

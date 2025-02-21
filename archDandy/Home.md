@@ -2,7 +2,7 @@
 cssclasses:
   - dashboard
 banner: "![[6d0fc6fba156e57c80c5897a36af9263.jpg]]"
-banner_y: 0.35267
+banner_y: 0.38
 ---
 # Vault Info
 
