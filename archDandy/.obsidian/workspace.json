@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/CyberSecurity CC ISC Course 2024/Domain 4/Cables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cables"
+            }
+          },
+          {
+            "id": "e9c6a7499e03161f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "GitHub/GitHub.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "GitHub"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,9 +194,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e9c6a7499e03161f",
   "lastOpenFiles": [
+    "GitHub/test github send.md",
     "Notes/CyberSecurity CC ISC Course 2024/Domain 4/Cables.md",
+    "GitHub/GitHub.md",
     "Home.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 1/The Ethics of your organizations and (ISC)sqr2.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 1/Subject and Object..md",
@@ -209,8 +226,6 @@
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 3/Data Classification Policies.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 3/Access Controls Concepts.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 3",
-    "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 2/Simulated Tests.md",
-    "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 2/NIST (National Institute of Standards and Technologies.md",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Domain 2",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024/Certification",
     "Notes/CyberSecurity CC ISC Course 2024/CyberSecurity CC ISC Course 2024",
